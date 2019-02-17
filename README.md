@@ -1,4 +1,4 @@
-# Test-a-Perceptual-Phenomenom
+# Test-a-Perceptual-Phenomenon
 Udacity Data Analyst Nanodegree Term 2, project 1
 
 
